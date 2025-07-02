@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "nome": "Fusca 1300",
+    "marca": "Volkswagen",
+    "ano": 1975,
+    "raridade": "Comum",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/VW_Käfer_1300_L_von_1972_-_Heck.jpg/1280px-VW_Käfer_1300_L_von_1972_-_Heck.jpg",
+    "status": {
+      "velocidade_maxima": 116,
+      "zero_a_cem": 26.0,
+      "manejo": 65
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Gol CL",
+    "marca": "Volkswagen",
+    "ano": 1994,
+    "raridade": "Comum",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Volkswagen_Gol_CL_1.8_1994_%2834789531773%29.jpg/1280px-Volkswagen_Gol_CL_1.8_1994_%2834789531773%29.jpg",
+    "status": {
+      "velocidade_maxima": 161,
+      "zero_a_cem": 13.5,
+      "manejo": 72
+    }
+  },
+  {
+    "id": 3,
+    "nome": "Opala Comodoro",
+    "marca": "Chevrolet",
+    "ano": 1988,
+    "raridade": "Incomum",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chevrolet_Opala_Comodoro_SL-E_4100_1988.jpg/1280px-Chevrolet_Opala_Comodoro_SL-E_4100_1988.jpg",
+    "status": {
+      "velocidade_maxima": 170,
+      "zero_a_cem": 12.0,
+      "manejo": 78
+    }
+  },
+  {
+    "id": 4,
+    "nome": "Tempra Turbo",
+    "marca": "Fiat",
+    "ano": 1995,
+    "raridade": "Raro",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fiat_Tempra_Turbo_Stile_1997_-_Front.jpg/1280px-Fiat_Tempra_Turbo_Stile_1997_-_Front.jpg",
+    "status": {
+      "velocidade_maxima": 220,
+      "zero_a_cem": 8.2,
+      "manejo": 85
+    }
+  }
+]
